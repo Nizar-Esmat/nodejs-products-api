@@ -2,18 +2,6 @@
 
 A RESTful API built with Node.js, Express, and MySQL for managing products and users.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
-- [Database Schema](#database-schema)
-
 ## ✨ Features
 
 - ✅ User authentication and management
